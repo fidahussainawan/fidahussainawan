@@ -1,4 +1,4 @@
-Here's an updated and more detailed version of your GitHub profile, incorporating the additional information and social media links from your resume:
+<a href="#"><img width="100%" height="auto" src="YOUR_NEW_IMAGE_LINK_HERE" height="175px"/></a>
 
 ---
 
