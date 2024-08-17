@@ -31,7 +31,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ch-shahjahan-mukhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ch-shahjahan-mukhtar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fida-hussain-awan-426144207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FidaHussainAwan" height="30" width="40" /></a>
 <a href="https://fb.com/FidaHussainAwan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FidaHussainAwan11" height="30" width="40" /></a>
 <a href="https://instagram.com/fidahussainawan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="FidaHussainAwan1" height="30" width="40" /></a>
@@ -83,7 +82,3 @@
     <img src="https://komarev.com/ghpvc/?username=fidahussainawan">
 </a>
 <a href="https://github.com/fidahussainawan?tab=followers"><img src="https://img.shields.io/github/followers/fidahussainawan?label=Followers&style=social" alt="GitHub Badge"></a>
-
----
-
-This version incorporates your full professional background, including your AI project experience, previous roles, and educational qualifications. It also integrates the specific social media links and your personal website, enhancing your online presence.
