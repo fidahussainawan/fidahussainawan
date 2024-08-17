@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="(https://github.com/fidahussainawan/fidahussainawan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/fidahussainawan/fidahussainawan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png" height="175px"/></a>
 
 ---
 
