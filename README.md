@@ -1,6 +1,3 @@
-Here's an updated and more detailed version of your GitHub profile, incorporating the additional information and social media links from your resume:
-
----
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
